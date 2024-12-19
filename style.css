@@ -1,0 +1,33 @@
+a{
+    background-color: #456;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 12px 25px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: blue;
+}
+#active {
+    background-color: chartreuse;
+}
+
+#wellcome{
+    color: rgb(255, 162, 0);
+    font-size: 24;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 50%;
+    margin-left: 20%;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
